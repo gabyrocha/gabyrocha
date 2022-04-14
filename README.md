@@ -1,7 +1,6 @@
 ### Oii! Eu sou a Gabyrocha 👋
 
 
-- 🔭 Atualmente estou procurando estágio em desenvolvimento
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: gabsfoxy@gmail.com
 
