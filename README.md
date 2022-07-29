@@ -1,4 +1,4 @@
-### Oii! Eu sou a Gabyrocha 👋
+### Oii! Eu sou a Gaby 👋
 
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
