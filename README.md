@@ -3,7 +3,12 @@
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: gabsfoxy@gmail.com
+____________________________________________________________________
 
+### Hi! I'm Gaby 👋
+
+- 🌱 I'm studying System Analysis and Development
+- 📫 You can reach me on: gabsfoxy@gmail.com
 ##
 
 <div>
