@@ -1,7 +1,7 @@
 ### Oii! Eu sou a Gaby 👋
 
 
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: gabsfoxy@gmail.com
 ____________________________________________________________________
 
@@ -22,8 +22,7 @@ ____________________________________________________________________
 <div>
 <a href="https://www.linkedin.com/in/gabyrocha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/gabii_fx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  
-![Snake animation](https://github.com/gabyrocha/gabyrocha/blob/output/github-contribution-grid-snake.svg)
+
 </div>
    
 
