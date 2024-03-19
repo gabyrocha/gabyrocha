@@ -1,13 +1,13 @@
 ### Oii! Eu sou a Gaby 👋
 
 
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Graduada em Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: gabsfoxy@gmail.com
 ____________________________________________________________________
 
 ### Hi! I'm Gaby 👋
 
-- 🌱 I'm studying System Analysis and Development
+- 💻 Graduated in Systems Analysis and Development
 - 📫 You can reach me on: gabsfoxy@gmail.com
 ##
 
