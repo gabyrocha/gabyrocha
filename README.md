@@ -7,7 +7,7 @@ ____________________________________________________________________
 
 ### Hi! I'm Gaby 👋
 
-- 💻 Graduated in Systems Analysis and Development
+- 💻 Graduated in Analysis and Systems Development.
 - 📫 You can reach me on: gabsfoxy@gmail.com
 ##
 
